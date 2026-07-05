@@ -9,7 +9,7 @@ A dynamic web-based e-commerce platform built to manage online shopping operatio
 * **Admin Dashboard:** Full control over product listings, stock management, and order tracking.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL (via XAMPP phpMyAdmin)
 

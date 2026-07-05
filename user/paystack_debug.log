@@ -1,0 +1,1 @@
+{"status":false,"message":"Invalid key","meta":{"nextStep":"Ensure that you provide the correct authorization key for the request"},"type":"validation_error","code":"invalid_Key"}
